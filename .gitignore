@@ -1,0 +1,17 @@
+# build output
+Makefile
+Makefile.*
+.qmake.stash
+release/
+debug/
+temp/
+object_script.*
+*_resource.rc
+*.o
+*.exe
+
+# zip bundle
+dist/
+
+# CMake build
+build/
