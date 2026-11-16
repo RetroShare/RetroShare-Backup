@@ -3,6 +3,9 @@
 A small standalone tool to **back up**, **restore** and **upgrade** [RetroShare](https://github.com/RetroShare/RetroShare) nodes.
 Use it while RetroShare is closed.
 
+<img width="902" height="612" alt="image" src="https://github.com/user-attachments/assets/d89c3a8c-d502-4050-b89d-ddb9eb72d279" />
+
+
 ## Features
 
 ### Back up
